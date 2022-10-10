@@ -1,5 +1,5 @@
 # Restful-booker API Testing
-# In this section I have covered 5 methods and also generated a report by NEWMAN.
+# In this section I have covered 5 methods and also generated a report using NEWMAN.
   1.POST Method: Create Access Token
   
   2.POST Method: Create new Booking
